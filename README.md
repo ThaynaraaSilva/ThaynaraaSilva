@@ -6,6 +6,7 @@ Sou uma desenvolvedora apaixonada por tecnologia e sempre em busca de aprender c
     <img alt="Anya Forger" height="350" style="border-radius:50px;" src="https://media1.tenor.com/m/mLzjUIekmM8AAAAd/anime-spy-x-family.gif">
   </div>
 
+##
   <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/ThaynaraaSilva">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaynaraaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,6 +14,7 @@ Sou uma desenvolvedora apaixonada por tecnologia e sempre em busca de aprender c
     </a>
   </div>
 </div>
+
 
 <div style="display: flex; justify-content: flex-end; gap: 15px; flex-wrap: wrap; align-items: center;">
 
@@ -23,10 +25,6 @@ Sou uma desenvolvedora apaixonada por tecnologia e sempre em busca de aprender c
   <img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-<div style="text-align: center; margin-top: 20px;">
-  <p>Entre em contato comigo por e-mail: <a href="thaynarabezerra02@gmail.com">thaynarabezerra02@gmail.com</a></p>
 </div>
 
 
